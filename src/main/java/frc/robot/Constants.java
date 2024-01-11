@@ -38,7 +38,7 @@ public final class Constants {
     public static final double kDrivingMinInput = -1;
     public static final double kDrivingMaxOutput = 1;
 
-    public static final double kPTurning = 1;
+    public static final double kPTurning =   1;
     public static final double kITurning = 0;
     public static final double kDTurning = 0;
     public static final double kFFTurning = 0;
